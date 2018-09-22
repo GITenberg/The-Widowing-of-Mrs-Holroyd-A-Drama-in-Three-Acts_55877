@@ -1,5 +1,8 @@
 _repo: The-Widowing-of-Mrs-Holroyd-A-Drama-in-Three-Acts_55877
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55877-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55877#The-Widowing-of-Mrs-Holroyd-A-Drama-in-Three-Acts
 gutenberg_issued: '2017-11-02'
 gutenberg_type: Text
 identifiers:
